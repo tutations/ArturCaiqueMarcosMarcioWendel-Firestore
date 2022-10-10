@@ -1,6 +1,8 @@
 FIAP: MBA em Mobile Development - Apps, IOT, Chatbots & Virtual Assistants
-Professor: Eric Alves Brito
+
 Trabalho de Conclusão Módulos 3 e 4
+
+Professor: Eric Alves Brito
 
 Componentes:
 - RM344985 - Artur Clemente
